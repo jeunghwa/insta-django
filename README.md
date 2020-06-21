@@ -1,1 +1,1 @@
-# instal-django
+# insta-django
